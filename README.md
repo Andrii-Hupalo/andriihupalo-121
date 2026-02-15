@@ -102,7 +102,7 @@ The project involved migrating a React application from Vite to Next.js, with a 
 
 ## 📫 How to reach me:
 
-<img src="https://st2.depositphotos.com/1102480/1192/i/600/depositphotos_91922912-stock-photo-linkedin-logo-sign-pinned-on.jpg" width="50" height="30" alt="LinkedIn Logo">  |  <img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG3.png" width="50" height="30" alt="LinkedIn Logo">
+<img src="https://st2.depositphotos.com/1102480/1192/i/600/depositphotos_91922912-stock-photo-linkedin-logo-sign-pinned-on.jpg" width="50" height="30" alt="LinkedIn Logo">     |  <img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG3.png" width="50" height="30" alt="LinkedIn Logo">
 
 [LinkedIn](https://www.linkedin.com/in/andrii-hupalo) |
 [Email](mailto:gupaloam@gmail.com)
@@ -110,5 +110,6 @@ The project involved migrating a React application from Vite to Next.js, with a 
 ---
 
 ![my life is not only in code](https://st4.depositphotos.com/10325396/28532/i/380/depositphotos_285323024-stock-photo-programming-code-abstract-technology-background.jpg)
+
 
 
