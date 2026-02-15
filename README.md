@@ -49,7 +49,7 @@ https://dmytro-liashenko.github.io/DreamTeam/
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/English_-_Elementary-green?style=flat)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
